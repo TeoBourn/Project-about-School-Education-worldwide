@@ -1,8 +1,8 @@
 import streamlit as st    # install graphviz
 import pandas as pd
-import seaborn as sb
-import numpy as np
-import altair as alt
+#import seaborn as sb
+#import numpy as np
+#import altair as alt
 import statistics
 
 st.set_page_config(page_title='Σύγκριση εκπαίδευσης παγκοσμίως',page_icon=':chart_with_upwards_trend:',layout='wide')
